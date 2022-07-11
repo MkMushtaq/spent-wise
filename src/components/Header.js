@@ -1,9 +1,14 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 
 export const Header = () => {
   return (
-    <h2>
-      Expense Tracker
-    </h2>
+    <Fragment>
+      <h1>
+        Spent Wise
+      </h1>
+      <h4 className='space'>
+        - Money spending simplified
+      </h4>
+    </Fragment>
   )
 }

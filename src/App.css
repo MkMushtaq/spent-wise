@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  background-image: linear-gradient(to bottom,#ffeb98, #fef1be);
   display: flex;
   flex-direction: column;
   align-items: center;
